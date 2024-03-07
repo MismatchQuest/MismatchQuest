@@ -46,5 +46,5 @@ Arguments:
 
 # SEETrue-Feedback dataset
 SEETrue-Feedback a comprehensive alignment benchmark. It features 2,008 human-annotated instances that highlight textual and visual feedback.
-You can download the dataset at the following [link](https://github.com/MismatchQuest/MismatchQuest/blob/main/SeeTRUE_Feedback.csv)
+Dataset will be available to download on huggingface.com website after the end of anonymization of project. 
 
